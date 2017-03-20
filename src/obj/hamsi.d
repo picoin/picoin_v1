@@ -1,1 +1,0 @@
-obj/hamsi.o: hamsi.c sph_hamsi.h sph_types.h hamsi_helper.c
