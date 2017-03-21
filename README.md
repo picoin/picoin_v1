@@ -1,6 +1,6 @@
 picoin development tree
 
-picoin is a PoS-based cryptocurrency.
+picoin is a PoS/PoW hybrid based cryptocurrency.
 
 Development process
 
